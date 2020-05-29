@@ -1,6 +1,7 @@
 # GROMACS_util
 
 This is a PDB to xyz conversion tool. 
+
 Input: Any GROMACS created molecular structure in PDB format
 Output:  Molecular structure in xyz format
 
